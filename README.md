@@ -12,4 +12,5 @@
 
 ## note
 
- In TrapGen, the i / (i - j) should be modified to x_i / (x_i - x_j).![Uploading image.png…]()
+ In TrapGen, the i / (i - j) should be modified to x_i / (x_i - x_j).<img width="871" height="522" alt="image" src="https://github.com/user-attachments/assets/3603cbe8-a885-414d-aad4-64327401f102" />
+
