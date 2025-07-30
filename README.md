@@ -9,3 +9,7 @@
  The project is intended to run on Ubuntu 24.04 using Python 3.9. The following Python packages are required:
 
 - Charm-Crypto (https://github.com/JHUISI/charm)
+
+## note
+
+ In TrapGen, the i / (i - j) should be modified to x_i / (x_i - x_j).![Uploading image.png…]()
